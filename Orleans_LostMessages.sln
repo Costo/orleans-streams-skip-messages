@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans_MemoryStream_LostMessage", "Orleans_MemoryStream_LostMessage\Orleans_MemoryStream_LostMessage.csproj", "{1496664D-0DC4-4745-AC33-99CC83FBCF61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orleans_LostMessages", "Orleans_LostMessages\Orleans_LostMessages.csproj", "{1496664D-0DC4-4745-AC33-99CC83FBCF61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
